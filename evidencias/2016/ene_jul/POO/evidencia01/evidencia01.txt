@@ -1,0 +1,6 @@
+Calificacion de la evidencia 1
+Nombre del discente           calificacion
+Bautista Cruz Andres                1.0
+Cervantes Cuevas Cesar Yair         1.0
+Perez Perez Daniel                  0.5
+Roa Amezquita Roberto Uriel         1.0
